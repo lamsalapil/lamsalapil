@@ -6,7 +6,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on [Final Year Project](https://github.com/shivam22-ab/Final-Year-Project-Laravel-9-)
+- 🔭 I’m currently working on [College Project Work](https://github.com/lamsalapil/CollegeProject)
 
 - 🌱 I’m currently learning **Laravel**
 
