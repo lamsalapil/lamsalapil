@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [College Project Work](https://github.com/lamsalapil/CollegeProject)
 
-- 🌱 I’m currently learning **MERN**
-
 - 👨‍💻 All of my projects are available at [https://github.com/lamsalapil](https://github.com/lamsalapil)
 
 - 📫 How to reach me **lamsalapil@gmail.com**
