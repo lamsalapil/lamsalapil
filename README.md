@@ -6,7 +6,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on (RiddhaSoft Pvt. Ltd) [	https://www.riddhasoft.com/assets/images/logo/dark-logo-160x48.png].
+- 🔭 I’m currently working on (RiddhaSoft Pvt. Ltd) https://www.riddhasoft.com/Riddhasoft/Home.
 
 - 👨‍💻 All of my projects are available at [https://github.com/lamsalapil](https://github.com/lamsalapil)
 
