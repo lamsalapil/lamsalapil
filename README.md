@@ -6,7 +6,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on [College Project Work](https://github.com/lamsalapil/CollegeProject)
+- 🔭 I’m currently working on (RiddhaSoft Pvt. Ltd).
 
 - 👨‍💻 All of my projects are available at [https://github.com/lamsalapil](https://github.com/lamsalapil)
 
