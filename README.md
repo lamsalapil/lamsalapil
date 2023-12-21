@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, APIL LAMSAL</h1>
+<h1 align="center">Hi,</h1>
 <h3 align="center"></h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
@@ -11,8 +11,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/lamsalapil](https://github.com/lamsalapil)
 
 - 📫 How to reach me **lamsalapil@gmail.com**
-
-- ⚡ Fun fact **I am serious**
 
 
 
