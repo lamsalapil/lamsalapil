@@ -1,5 +1,6 @@
 
-<h1 style="text-align: center; font-family: 'Roboto', sans-serif;">Hi,</h1>
+ <h1 align: center; style="font-family: 'Roboto', sans-serif; color: #3498db; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hi,</h1>
+
 <h3 align="center"></h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
