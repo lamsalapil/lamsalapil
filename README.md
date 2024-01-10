@@ -1,5 +1,5 @@
 
- <h1 align: center; style="font-family: 'Roboto', sans-serif; color: #3498db; letter-spacing: 2px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Hi,</h1>
+ <h1 align: center; font-family:Roboto;>Hi,</h1>
 
 <h3 align="center"></h3>
 
