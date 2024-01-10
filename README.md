@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **RiddhaSoft Pvt. Ltd.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lamsalapil](https://github.com/lamsalapil)
-
-- 📫 How to reach me **lamsalapil@gmail.com**
+- 📫 How to reach me [https://apillamsal.com.np/](www.apillamsal.com.np)
 
 
 
