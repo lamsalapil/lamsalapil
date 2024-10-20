@@ -7,8 +7,6 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **RiddhaSoft Pvt. Ltd.**
-
 - 📫 How to reach me [www.apillamsal.com.np](https://apillamsal.com.np/)
 
 
